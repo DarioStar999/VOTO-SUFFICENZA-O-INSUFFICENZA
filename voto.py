@@ -7,5 +7,5 @@ if voto>= "7":
    print("Non male dai")
 if voto>= "8":
    print("sei un cazzo di genio")
-input("made whit code by Dario Vaghi: ")
+input("made whit code by Dario: ")
 exit()
